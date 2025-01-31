@@ -5,5 +5,5 @@ the  goal is to predict the  survived peaple on the test_data.
 
 ## 1. Data  Expolration:
 The goal is to predict the survived column so I  like  to see the changes and relation betwean Survived column and other ones.
-there are two difrent types ofcolumns: numerical  andcathegorical 
+there are two difrent types ofcolumns: numerical  and cathegorical 
 first of all I like to seprat  them  and  start to explore and see the relation  between  them 
